@@ -1,0 +1,9 @@
+1,calculator,5.95,1,9.52
+2,calculator,5.95,2,19.04
+3,calculator,9.52,3,27.13,dasd,12121
+4,Eraser,0.99,1,1.58
+999,Total sales for 07-06-2017.23:53:52,22.41,7,57.28
+1,Box of paper clips,2.50,1,4.00
+2,Box of paper clips,2.50,1,4.00
+3,Box of paper clips,2.50,1,4.00
+999,Total sales for 07-06-2017.23:54:34,7.50,3,12.00

@@ -1,0 +1,14 @@
+1,Calculator,5.95,2,19.04
+2,Calculator,9.52,3,22.37,22,222,AX012
+999,Total sales for 09-06-2017.12:17:45,15.47,5,41.41
+1,Calculator,9.52,3,12.85,jack,121323,AX012
+999,Total sales for 09-06-2017.15:38:31,9.52,3,12.85
+1,Calculator,5.95, Number of Item Sold: 1, Total value of sales:9.52
+2,Thumb Drive 10gb,11.52,3,32.83,Jack,123456
+3,Thumb Drive 10gb,11.52,3,15.55,jack,789987,AZ052
+999,Total sales for 09-06-2017.16:20:54,0.00, Number of Item Sold: 7, Total value of sales:57.90
+1,Thumb Drive 10gb,7.20, Number of Item Sold: 1, Total Value of Sales:11.52
+2,Thumb Drive 10gb,7.20, Number of Item Sold: 1, Total Value of Sales:11.52
+3,Thumb Drive 10gb,7.20, Number of Item Sold: 1, Total Value of Sales:11.52
+4,Thumb Drive 10gb,7.20, Number of Item Sold: 1, Total Value of Sales:11.52
+999,Total sales for 09-06-2017.17:09:41,0.00, Number of Item Sold: 4, Total Value of Sales:46.08

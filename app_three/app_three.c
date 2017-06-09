@@ -201,7 +201,7 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam)
 //#ifdef PIC_RESOURCE_USED
 			//hBitmap = LoadBitmap(hInst, MAKEINTRESOURCE(IDB_COLOR3));
 //#else
-			hBitmap = (HBITMAP)LoadImage(NULL, "5.bmp", IMAGE_BITMAP, 0, 0, LR_LOADFROMFILE | LR_DEFAULTSIZE); //加载一组图片
+			hBitmap = (HBITMAP)LoadImage(hImageList, "1.bmp", IMAGE_BITMAP, 0, 0, LR_LOADFROMFILE | LR_DEFAULTSIZE); //加载一组图片
 //#endif
 			ImageList_AddMasked(hImageList, hBitmap, RGB(255, 255, 255));
 			/**/
@@ -220,7 +220,7 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam)
 				hwnd, (HMENU)IDC_MAIN_STATUS, GetModuleHandle(NULL), NULL);
 
 			SendMessage(hStatus, SB_SETPARTS, sizeof(statwidths)/sizeof(int), (LPARAM)statwidths);
-			SendMessage(hStatus, SB_SETTEXT, 0, (LPARAM)"Hi there :)");
+			SendMessage(hStatus, SB_SETTEXT, 0, (LPARAM)"Hell o World :)");
 		}
 		break;
 		case WM_SIZE:
