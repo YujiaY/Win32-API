@@ -12,3 +12,6 @@
 3,Thumb Drive 10gb,7.20, Number of Item Sold: 1, Total Value of Sales:11.52
 4,Thumb Drive 10gb,7.20, Number of Item Sold: 1, Total Value of Sales:11.52
 999,Total sales for 09-06-2017.17:09:41,0.00, Number of Item Sold: 4, Total Value of Sales:46.08
+1,Calculator,9.52,3,27.13,jack21,211
+2,Calculator,9.52,3,12.85,jack,2121,AX012
+999,Total sales for 09-06-2017.20:55:40,0.00, Number of Item Sold: 6, Total Value of Sales:39.98

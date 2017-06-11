@@ -1,0 +1,4 @@
+1,Calculator,9.52,3,12.85,Yujia,1234,AX012
+2,Eraser,0.99, Number of Item Sold: 3, Total Value of Sales:4.75
+3,Pen,3.95, Number of Item Sold: 3, Total Value of Sales:18.96
+999,Total sales for 10-06-2017.16:03:44,0.00, Number of Item Sold: 9, Total Value of Sales:36.56
